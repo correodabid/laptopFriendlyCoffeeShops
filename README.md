@@ -29,8 +29,8 @@ This API project was made in order to accomplish with MMGs ["Node backend develo
 
 # Installation
 
-    git clone
-    cd
+    git clone https://github.com/correodabid/laptopFriendlyCoffeeShops.git
+    cd laptopFriendlyCoffeeShops
     npm install
     npm start
 
@@ -48,6 +48,8 @@ To launch each test separately:
     npm run test:coffeeShops
     npm run test:comments
     npm run test:users
+
+    npm run test:routes
 
 [Content Table](#content-table)
 
